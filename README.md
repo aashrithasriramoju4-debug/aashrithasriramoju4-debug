@@ -32,15 +32,22 @@ I'm a third-year Computer Science and Engineering student passionate about Full-
 
 ## Featured Projects
 
+## Featured Projects
+
 ### UFin – Farmer-to-Customer Marketplace
 - Developed a multilingual marketplace connecting farmers directly with customers.
-- Implemented location-based services, AI-powered assistance, and secure authentication.
-- Built using React.js, Spring Boot, MongoDB, and REST APIs.
+- Implemented location-based services, AI-powered assistance, secure authentication, and QR-based product traceability.
+- **Tech Stack:** React.js, Spring Boot, MongoDB, REST APIs.
+
+### DoubtNest – College Knowledge Hub
+- Developed a full-stack platform that enables students to ask questions, share knowledge, and collaborate within the college community.
+- Implemented secure JWT-based authentication, real-time communication, AI-assisted features, and role-based access control.
+- **Tech Stack:** React.js, Spring Boot, MySQL, WebSocket, JWT.
 
 ### Expense Tracker
-- Developed a full-stack expense management application with secure authentication and expense analytics.
-- Built using React.js, Node.js, Express.js, and MongoDB.
-
+- Built a full-stack expense management application with secure authentication and expense analytics.
+- Implemented CRUD operations, responsive UI, and data visualization.
+- **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
 ## Connect
 
 - **Email:** aashrithasriramoju4@gmail.com
