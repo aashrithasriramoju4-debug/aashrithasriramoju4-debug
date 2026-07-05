@@ -30,7 +30,6 @@ I'm a third-year Computer Science and Engineering student passionate about Full-
 
 **Tools:** Git, GitHub, Apache Tomcat
 
-## Featured Projects
 
 ## Featured Projects
 
