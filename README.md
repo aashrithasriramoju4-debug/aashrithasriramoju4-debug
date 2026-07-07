@@ -50,7 +50,7 @@ I'm a third-year Computer Science and Engineering student passionate about Full-
 ## Connect
 
 - **Email:** aashrithasriramoju4@gmail.com
-- **LinkedIn:** www.linkedin.com/in/aashritha-sriramoju-15894a3a9**
+- **LinkedIn:** www.linkedin.com/in/aashritha-sriramoju-15894a3a9
 - **Instagram:** https://instagram.com/aashritha__20
 
 ## GitHub Statistics
