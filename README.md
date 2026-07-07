@@ -1,56 +1,57 @@
 <h1 align="center">Hi 👋, I'm Aashritha Sriramoju</h1>
-<h3 align="center">Full-Stack Developer | Computer Science Engineering Student | Problem Solver</h3>
+
+<h3 align="center">
+Computer Science Engineering Student | Full-Stack Developer | Java Developer
+</h3>
 
 <p align="center">
-  <a href="https://github.com/aashrithasriramoju4-debug">
-    <img src="https://komarev.com/ghpvc/?username=aashrithasriramoju4-debug&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+Passionate about building scalable web applications, solving real-world problems, and continuously learning modern technologies.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aashrithasriramoju4-debug&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
 
-## 💫 About Me
+# 👩‍💻 About Me
 
-🎓 Third-year Computer Science and Engineering student passionate about building scalable and user-friendly web applications.
-
-💻 Interested in Full-Stack Development, Backend Engineering, and Software Development.
-
-🚀 I enjoy transforming ideas into real-world applications using modern technologies.
-
-🌱 Currently improving my skills in:
-- Data Structures & Algorithms
-- System Design
-- Spring Boot
-- React.js
-- Cloud Technologies
-
-📫 Reach me at **aashrithasriramoju4@gmail.com**
+- 🎓 Third-Year Computer Science and Engineering Student
+- 💻 Passionate about Full-Stack Development, Backend Development, and Software Engineering
+- 🌱 Currently strengthening my skills in **Data Structures & Algorithms, System Design, Spring Boot, and Cloud Technologies**
+- 🚀 Interested in building scalable and user-centric applications
+- 🤝 Open to internships, collaborations, and open-source contributions
 
 ---
 
-## 🚀 Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+### Languages
+
 <p>
 <img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
 </p>
 
 ### Frontend
+
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
 ### Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-### Database
+### Databases
+
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools & Technologies
+### Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
 </p>
@@ -61,80 +62,117 @@
 
 ## 🌾 UFin – Farmer-to-Customer Marketplace
 
-✔️ Built a multilingual marketplace connecting farmers directly with customers.
+Developed a multilingual marketplace that connects farmers directly with customers, enabling transparent and efficient agricultural commerce.
 
-✔️ Implemented AI-powered assistance, secure authentication, QR-based traceability, and location-based services.
+### Key Features
+
+- Multilingual Support
+- AI-powered Assistant
+- Secure Authentication
+- QR-based Product Traceability
+- Location-based Services
 
 **Tech Stack**
 
-`React.js` `Spring Boot` `MongoDB` `REST API`
+`React.js` • `Spring Boot` • `MongoDB` • `REST APIs`
+
+🎥 **Project Demo**
+
+https://youtu.be/6Rw6OYu4Wqo
 
 ---
 
 ## 🎓 DoubtNest – AI-Powered College Knowledge Hub
 
-✔️ Developed a collaborative learning platform with AI-powered doubt assistance.
+Built a full-stack collaborative platform that enables students to ask questions, share knowledge, and learn more effectively within their college community.
 
-✔️ Implemented JWT Authentication, Role-Based Access Control, WebSockets, Notifications, and Real-Time Chat.
+### Key Features
 
-✔️ Added AI-powered Answer Suggestions and Previous Year Question Analysis.
+- JWT Authentication
+- Role-Based Access Control
+- AI-powered Answer Suggestions
+- Previous Year Question Analysis
+- Real-Time Chat using WebSockets
+- Notifications
+- Profile Management
 
 **Tech Stack**
 
-`React.js` `Spring Boot` `MySQL` `JWT` `WebSocket`
-
-🎥 **Project Demo:** https://youtu.be/6Rw6OYu4Wqo
+`React.js` • `Spring Boot` • `MySQL` • `JWT` • `WebSocket`
 
 ---
 
 ## 💰 Expense Tracker
 
-✔️ Developed a secure expense management application.
+A full-stack expense management application that helps users securely manage and analyze their daily expenses.
 
-✔️ Implemented authentication, CRUD operations, responsive UI, and expense analytics.
+### Key Features
+
+- Secure User Authentication
+- Expense Analytics
+- CRUD Operations
+- Responsive Dashboard
 
 **Tech Stack**
 
-`React.js` `Node.js` `Express.js` `MongoDB`
+`React.js` • `Node.js` • `Express.js` • `MongoDB`
 
 ---
 
-# 📊 GitHub Analytics
+# 📚 Currently Learning
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aashrithasriramoju4-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashrithasriramoju4-debug&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashrithasriramoju4-debug&theme=tokyonight&hide_border=true"/>
-</p>
+- Data Structures & Algorithms
+- System Design
+- Spring Boot
+- RESTful API Development
+- Cloud Computing
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
+
 <a href="mailto:aashrithasriramoju4@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://www.linkedin.com/in/aashritha-sriramoju-15894a3a9">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://github.com/aashrithasriramoju4-debug">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://instagram.com/aashritha__20">
-<img src="https://skillicons.dev/icons?i=instagram"/>
+<img src="https://skillicons.dev/icons?i=instagram" />
 </a>
+
 </p>
+
+**Email:** aashrithasriramoju4@gmail.com
+
+**LinkedIn:** https://www.linkedin.com/in/aashritha-sriramoju-15894a3a9
+
+**GitHub:** https://github.com/aashrithasriramoju4-debug
 
 ---
 
-## 💡 Quote
+# 📈 GitHub Activity
 
-> *"Code with curiosity, build with purpose, and never stop learning."*
+> GitHub Readme Stats are temporarily unavailable because the public deployment is paused.
+
+### Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aashrithasriramoju4-debug&theme=tokyo-night)](https://github.com/aashrithasriramoju4-debug)
+
+### GitHub Streak
+
+![](https://streak-stats.demolab.com?user=aashrithasriramoju4-debug&theme=tokyonight)
+
+---
+
+# 💡 Quote
+
+> *"Strive to build solutions that create impact, embrace continuous learning, and grow through every challenge."*
