@@ -1,62 +1,140 @@
-# About Me
+<h1 align="center">Hi 👋, I'm Aashritha Sriramoju</h1>
+<h3 align="center">Full-Stack Developer | Computer Science Engineering Student | Problem Solver</h3>
 
-## Hi, I'm Aashritha Sriramoju
+<p align="center">
+  <a href="https://github.com/aashrithasriramoju4-debug">
+    <img src="https://komarev.com/ghpvc/?username=aashrithasriramoju4-debug&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
 
-I'm a third-year Computer Science and Engineering student passionate about Full-Stack Development, Software Engineering, and Problem Solving. I enjoy building scalable web applications and continuously expanding my knowledge by working on real-world projects.
+---
 
-### Current Focus
+## 💫 About Me
 
-- Developing full-stack applications using React.js, Spring Boot, and MongoDB.
-- Strengthening my understanding of Data Structures & Algorithms and System Design.
-- Exploring backend development and cloud technologies.
+🎓 Third-year Computer Science and Engineering student passionate about building scalable and user-friendly web applications.
 
-### Areas of Interest
+💻 Interested in Full-Stack Development, Backend Engineering, and Software Development.
 
-- Full-Stack Web Development
-- Backend Development
-- REST API Development
-- Software Engineering
-- Open Source Contributions
+🚀 I enjoy transforming ideas into real-world applications using modern technologies.
 
-### Technical Skills
+🌱 Currently improving my skills in:
+- Data Structures & Algorithms
+- System Design
+- Spring Boot
+- React.js
+- Cloud Technologies
 
-**Languages:** Java, JavaScript, Python, C, R
+📫 Reach me at **aashrithasriramoju4@gmail.com**
 
-**Frontend:** React.js, HTML5, CSS3, Bootstrap
+---
 
-**Backend:** Spring Boot, REST APIs
+## 🚀 Tech Stack
 
-**Databases:** MongoDB, MySQL
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,c" />
+</p>
 
-**Tools:** Git, GitHub, Apache Tomcat
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+</p>
 
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
 
-## Featured Projects
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### UFin – Farmer-to-Customer Marketplace
-- Developed a multilingual marketplace connecting farmers directly with customers.
-- Implemented location-based services, AI-powered assistance, secure authentication, and QR-based product traceability.
-- **Tech Stack:** React.js, Spring Boot, MongoDB, REST APIs.
+### Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
+</p>
 
-### DoubtNest – College Knowledge Hub
-- Developed a full-stack platform that enables students to ask questions, share knowledge, and collaborate within the college community.
-- Implemented secure JWT-based authentication, real-time communication, AI-assisted features, and role-based access control.
-- **Tech Stack:** React.js, Spring Boot, MySQL, WebSocket, JWT.
+---
 
-### Expense Tracker
-- Built a full-stack expense management application with secure authentication and expense analytics.
-- Implemented CRUD operations, responsive UI, and data visualization.
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB.
-## Connect
+# 🚀 Featured Projects
 
-- **Email:** aashrithasriramoju4@gmail.com
-- **LinkedIn:** www.linkedin.com/in/aashritha-sriramoju-15894a3a9
-- **Instagram:** https://instagram.com/aashritha__20
+## 🌾 UFin – Farmer-to-Customer Marketplace
 
-## GitHub Statistics
+✔️ Built a multilingual marketplace connecting farmers directly with customers.
 
-![](https://github-readme-stats.vercel.app/api?username=aashrithasriramoju4-debug&show_icons=true&theme=tokyonight)
+✔️ Implemented AI-powered assistance, secure authentication, QR-based traceability, and location-based services.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=aashrithasriramoju4-debug&theme=tokyonight)
+**Tech Stack**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aashrithasriramoju4-debug&layout=compact&theme=tokyonight)
+`React.js` `Spring Boot` `MongoDB` `REST API`
+
+---
+
+## 🎓 DoubtNest – AI-Powered College Knowledge Hub
+
+✔️ Developed a collaborative learning platform with AI-powered doubt assistance.
+
+✔️ Implemented JWT Authentication, Role-Based Access Control, WebSockets, Notifications, and Real-Time Chat.
+
+✔️ Added AI-powered Answer Suggestions and Previous Year Question Analysis.
+
+**Tech Stack**
+
+`React.js` `Spring Boot` `MySQL` `JWT` `WebSocket`
+
+🎥 **Project Demo:** https://youtu.be/6Rw6OYu4Wqo
+
+---
+
+## 💰 Expense Tracker
+
+✔️ Developed a secure expense management application.
+
+✔️ Implemented authentication, CRUD operations, responsive UI, and expense analytics.
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aashrithasriramoju4-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aashrithasriramoju4-debug&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashrithasriramoju4-debug&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:aashrithasriramoju4@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aashritha-sriramoju-15894a3a9">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/aashrithasriramoju4-debug">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://instagram.com/aashritha__20">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Code with curiosity, build with purpose, and never stop learning."*
